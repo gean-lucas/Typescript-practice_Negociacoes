@@ -19,3 +19,4 @@ if (botaoImporta) {
 else {
     throw Error('Não foi possível inicializar a aplicação');
 }
+//# sourceMappingURL=app.js.map
